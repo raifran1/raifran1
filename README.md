@@ -1,6 +1,6 @@
 - 👋 Olá, sou o Raifran Lucas desenvolvedor fullstack
-- 👀 Interesses na área de Devops, Backend, Mobile(design/frontend)
-- 🌱 Atualmente me especializando em Devops, trabalhando com diversas stacks: Python/Django, React, React Native, AWS, OVH,...
+- 👀 Atuo na área de Devops, Backend, Mobile(design/frontend)
+- 🌱 Especializado nas stacks: Python/Django, React, React Native, Azure Devops, Docker, Kubernets
 - 💞️ Amo colaborar com o open source, e de ajudar demais colegas a evoluir
 
 <div>
